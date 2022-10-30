@@ -4,7 +4,7 @@ In this notebook, I combined the `YOLOv3` algorithm with the `DeepSORT` algorith
 
 # Dataset ⬇
 
-The dataset used is the `KITTI Vision` dataset: https://www.cvlibs.net/datasets/kitti/
+The dataset used is the [`KITTI Vision`](https://www.cvlibs.net/datasets/kitti/) dataset
 
 # Samples 📺📽
 
